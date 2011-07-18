@@ -1,0 +1,11 @@
+HOPS 2.0
+========
+
+Basic deployment tool built on Fabric for deploying to Django 1.2+ apps onto
+Ubuntu systems.
+
+Getting Started
+---------------
+
+Include the boilerplate fabfile.py in your Django project. Customizations go
+in hops_config.py
